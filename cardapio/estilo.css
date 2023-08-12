@@ -14,8 +14,14 @@ body, html{
 }
 
 .item{
-    width: 60%;
-    border: 15px outset yellow;
-    padding: 20px 20px 20px 20px;
-    float: center;
+    width: 40%;
+    border: 8px solid yellow;
+    padding: 2%;
+    float: left;
+    text-align: center;
+}
+.creditos{
+    width: 100%;
+    text-align: center;
+    clear: both;
 }
